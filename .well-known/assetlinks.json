@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.broussen.twa",
+                     "sha256_cert_fingerprints": ["44:4B:62:B4:87:E0:93:09:1F:E2:C1:6E:6F:8C:69:9E:B7:62:BD:97:4C:35:42:12:30:D7:B2:AF:01:EB:C5:A4"] }
+      }
+]
