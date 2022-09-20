@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Regarder les meilleurs films et séries en streaming gratuitement et sans aucune publicité sur NetFree.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "broussen.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "broussen.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/800x800.png",
+      "type": "image/png",
+      "sizes": "800x800"
+    }
+  ]
+}
